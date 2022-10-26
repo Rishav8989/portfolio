@@ -8,10 +8,10 @@ function Nav() {
     <nav className={nav.nav}>
       <ul>
         <li>
-          <Link href='/' className={nav.btn1}>Home</Link>
+          <Link href='/' className={nav.btn}>Home</Link>
         </li>
         <li>
-          <Link href='/' className={nav.btn1}>About</Link>
+          <Link href='/' className={nav.btn}>About</Link>
         </li>
       </ul>
     </nav>

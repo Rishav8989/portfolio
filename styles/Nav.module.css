@@ -42,12 +42,12 @@
     z-index: -1;
 }
 
-.btn1::after{
+.btn::after{
     transform: scaleX(0);
     transform-origin: left;
 }
 
-.btn1:hover::after{
+.btn:hover::after{
     transform: scaleX(1);
     transition: transform 500ms;
 }
