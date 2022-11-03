@@ -8,6 +8,7 @@ export default function Home() {
         <title>Rishav</title>
       </Head>
       <h1>Rishav</h1>
+      <div className={styles.about_me}></div>
     </div>
   )
 }
